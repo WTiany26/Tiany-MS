@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+  text-shadow: 2px 2px grey;
+  text-align: center;
+  font-style: oblique;
+}
+h3 {
+  color: red;
+  text-align: center;
+}
