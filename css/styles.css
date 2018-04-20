@@ -4,7 +4,12 @@ h1 {
   text-align: center;
   font-style: oblique;
 }
-h3 {
+.a {
   color: red;
+  text-align: center;
+}
+
+.b {
+  color: #C214E1;
   text-align: center;
 }
