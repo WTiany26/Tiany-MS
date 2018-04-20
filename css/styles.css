@@ -1,5 +1,5 @@
 h1 {
-  color: blue;
+  color: white;
   text-shadow: 2px 2px grey;
   text-align: center;
   font-style: oblique;
@@ -12,4 +12,10 @@ h1 {
 .b {
   color: #C214E1;
   text-align: center;
+}
+
+body {
+  background-image: url("https://wallpaperbrowse.com/media/images/f2nbsPJ.jpg");
+
+
 }
